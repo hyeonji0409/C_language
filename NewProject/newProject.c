@@ -7,6 +7,7 @@ void main()
 	b = 6;
 
 	printf("a + b =  %d", a + b);
+
 }
 
 
